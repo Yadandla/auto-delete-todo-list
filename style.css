@@ -70,4 +70,5 @@ button:hover {
     margin: 0.2rem;
     border-radius: 5px;
     background: #fff;
+    border: 2px solid #00000040;
 }
