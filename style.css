@@ -17,7 +17,7 @@ body {
     justify-content: center;
     gap: 1.5rem;
     padding-top: 12px;
-    background: navy;
+    background: #00008045;
 }
 
 .side-btns {
@@ -44,21 +44,23 @@ button:hover {
 }
 
 .show {
-    border: 1px solid rgb(207, 203, 203);
+    border: 1px solid #00000054;
     height: 75%;
     width: 20%;
     text-align: center;
     box-shadow: 0px 0px 5px #cfcccc36;
     border-radius: 5px;
+    background: aliceblue;
 }
 
 .show h2 {
     padding: 5px;
-    background-color: rgb(196 180 29);
+    background-color: #000;
     font-size: 18px;
     box-shadow: 0px 0px 5px #80808036;
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
+    color: #fff;
 }
 
 .show p {
